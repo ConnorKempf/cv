@@ -1,0 +1,24 @@
+body {
+  background-color: #E8F9FD;
+
+}
+
+hr {
+  border-color: #79DAE8;
+  border-style: none dotted dotted none;
+  width: 22%;
+  border-width: 7px;
+}
+
+img {
+  border-radius: 50%;
+  max-height: 250px;
+}
+
+h1 {
+  color: #2155CD;
+}
+
+h3 {
+  color: #2155CD;
+}
